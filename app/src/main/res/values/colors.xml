@@ -1,0 +1,10 @@
+<resources>
+    <color name="colorPrimary">#DBEEEE</color>
+    <color name="colorPrimaryDark">#023737</color>
+    <color name="colorAccent">#000000</color>
+    <color name="paletteLightest">#DBEEEE</color>
+    <color name="paletteLight">#5D9595</color>
+    <color name="paletteNormal">#226666</color>
+    <color name="paletteDark">#023737</color>
+    <color name="paletteDarkest">#000909</color>
+</resources>

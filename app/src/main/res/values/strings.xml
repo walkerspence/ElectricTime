@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ET</string>
+    <string-array name="vehicles">
+        <item>Walk</item>
+        <item>Boosted Mini S</item>
+        <item>Evolve Skateboard</item>
+        <item>OneWheel</item>
+        <item>MotoTec Skateboard</item>
+        <item>Segway Ninebot One S1</item>
+        <item>Segway i2 SE</item>
+        <item>Razor Scooter</item>
+        <item>GeoBlade 500</item>
+        <item>Hovertrax Hoverboard</item>
+    </string-array>
+</resources>
